@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firsty-first&label=Profile%20views&color=0e75b6&style=flat" alt="firsty-first" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<img align="center" width="800" src="https://img.freepik.com/free-photo/jungle-background-forest-nature-scene-futuristic-generative-ai_191095-556.jpg?t=st=1689205899~exp=1689209499~hmac=9a6e99faf7bda43677eebc8b4af8e15cefc02634c3faf92b484c9dabbb31c8c1&w=996">
 <p align="left">
 <a href="https://kaggle.com/firstyfirst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="firstyfirst" height="30" width="40" /></a>
 <a href="https://instagram.com/firstyfirst_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firstyfirst_" height="30" width="40" /></a>
