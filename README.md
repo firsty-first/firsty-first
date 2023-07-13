@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center"></h3>
-<img align="center" width="370" height="215" src="https://github.com/firsty-first/firsty-first/blob/main/github-header-image.png">
+
+<img align="center"  src="https://github.com/firsty-first/firsty-first/blob/main/github-header-image%20(1).png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firsty-first&label=Profile%20views&color=0e75b6&style=flat" alt="firsty-first" /> </p>
 
 <h3 align="left">Connect with me:</h3>
