@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">Hey!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firsty-first&label=Profile%20views&color=0e75b6&style=flat" alt="firsty-first" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img align="center" width="800" src="https://img.freepik.com/premium-photo/boy-holding-soccer-ball-his-hands_888396-2877.jpg?w=1060">
+<img align="center" width="500" src="https://img.freepik.com/premium-photo/boy-holding-soccer-ball-his-hands_888396-2877.jpg?w=1060">
 <p align="left">
 <a href="https://kaggle.com/firstyfirst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="firstyfirst" height="30" width="40" /></a>
 <a href="https://instagram.com/firstyfirst_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firstyfirst_" height="30" width="40" /></a>
