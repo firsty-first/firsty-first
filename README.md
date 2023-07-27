@@ -12,11 +12,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firsty-first&show_icons=true&locale=en&layout=compact" alt="firsty-first" />
 
 </p>
 
 <br></br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firsty-first&" alt="firsty-first" /></p>
 
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=firsty-first&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=firsty-first&layout=compact&theme=vision-friendly-dark)](https://github.com/SattwikMaiti/github-readme-stats)
+ ![gaurav's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=firsty-first&count_private=true&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=firsty-first&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<!-- GitHub Profile Widget Start -->
+
+<!-- GitHub Profile Widget End -->
