@@ -17,3 +17,4 @@
 <br></br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firsty-first&" alt="firsty-first" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstyfirst)](https://github.com/anuraghazra/github-readme-stats)
